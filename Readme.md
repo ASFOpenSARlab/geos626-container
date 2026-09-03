@@ -1,3 +1,7 @@
+# Archival notice
+This repository has been archived following the completion of the class.
+The container will continue to be available into the future.
+
 # geos626-container
 
 Hosted Docker image for use in OpenScienceLab. Built for the Spring 2026 section of
